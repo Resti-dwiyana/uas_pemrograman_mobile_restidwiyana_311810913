@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\980c11d9ea87c2cab0052b6787c1ee9f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\613bf3fe03cbede8fda77f5850c7976d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\622ff306c2c1d3ee2eaec1a7f4a2f7db\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\869923f77badb1e7501ebcfdc93d2884\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\afc9f333b57e26a91b3117cf335e45b3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\66aa4c3fcd6940e7ae6decd02c3681cc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\ef063a713c867c4cd41a2670edb63316\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\247f564fd645444292bdaac9007940fb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a3f47bbb9e5a234d5f9927f8ddea762e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\453a69eb60b58724999266bfe59f4564\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:6:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\980c11d9ea87c2cab0052b6787c1ee9f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\980c11d9ea87c2cab0052b6787c1ee9f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\613bf3fe03cbede8fda77f5850c7976d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\613bf3fe03cbede8fda77f5850c7976d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\622ff306c2c1d3ee2eaec1a7f4a2f7db\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\622ff306c2c1d3ee2eaec1a7f4a2f7db\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\869923f77badb1e7501ebcfdc93d2884\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\869923f77badb1e7501ebcfdc93d2884\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\afc9f333b57e26a91b3117cf335e45b3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\afc9f333b57e26a91b3117cf335e45b3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\66aa4c3fcd6940e7ae6decd02c3681cc\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\66aa4c3fcd6940e7ae6decd02c3681cc\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\ef063a713c867c4cd41a2670edb63316\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\ef063a713c867c4cd41a2670edb63316\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\247f564fd645444292bdaac9007940fb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\247f564fd645444292bdaac9007940fb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a3f47bbb9e5a234d5f9927f8ddea762e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a3f47bbb9e5a234d5f9927f8ddea762e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\453a69eb60b58724999266bfe59f4564\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\453a69eb60b58724999266bfe59f4564\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.smartneasy.hargahponline.MainActivity
+ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:13:9-20:20
+	android:label
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.smartneasy.hargahponline.FormHandphone
+ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:21:9-24:20
+	android:label
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:23:13-59
+	android:name
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:22:13-70
+activity#com.smartneasy.hargahponline.DetailHandphone
+ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:25:9-28:20
+	android:label
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:27:13-68
+	android:name
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml:26:13-72
+uses-sdk
+INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\980c11d9ea87c2cab0052b6787c1ee9f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\980c11d9ea87c2cab0052b6787c1ee9f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\613bf3fe03cbede8fda77f5850c7976d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\613bf3fe03cbede8fda77f5850c7976d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\622ff306c2c1d3ee2eaec1a7f4a2f7db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\622ff306c2c1d3ee2eaec1a7f4a2f7db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\869923f77badb1e7501ebcfdc93d2884\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\869923f77badb1e7501ebcfdc93d2884\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\afc9f333b57e26a91b3117cf335e45b3\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\afc9f333b57e26a91b3117cf335e45b3\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\66aa4c3fcd6940e7ae6decd02c3681cc\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\66aa4c3fcd6940e7ae6decd02c3681cc\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\ef063a713c867c4cd41a2670edb63316\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\ef063a713c867c4cd41a2670edb63316\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\247f564fd645444292bdaac9007940fb\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\247f564fd645444292bdaac9007940fb\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a3f47bbb9e5a234d5f9927f8ddea762e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a3f47bbb9e5a234d5f9927f8ddea762e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\453a69eb60b58724999266bfe59f4564\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\453a69eb60b58724999266bfe59f4564\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\980c11d9ea87c2cab0052b6787c1ee9f\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL i7 Gen7\AndroidStudioProjects\HargaHPOnline\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\980c11d9ea87c2cab0052b6787c1ee9f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\622ff306c2c1d3ee2eaec1a7f4a2f7db\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\622ff306c2c1d3ee2eaec1a7f4a2f7db\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\869923f77badb1e7501ebcfdc93d2884\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\869923f77badb1e7501ebcfdc93d2884\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\afc9f333b57e26a91b3117cf335e45b3\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\afc9f333b57e26a91b3117cf335e45b3\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\66aa4c3fcd6940e7ae6decd02c3681cc\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\66aa4c3fcd6940e7ae6decd02c3681cc\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\ef063a713c867c4cd41a2670edb63316\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\ef063a713c867c4cd41a2670edb63316\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\247f564fd645444292bdaac9007940fb\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\247f564fd645444292bdaac9007940fb\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a3f47bbb9e5a234d5f9927f8ddea762e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a3f47bbb9e5a234d5f9927f8ddea762e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\453a69eb60b58724999266bfe59f4564\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\453a69eb60b58724999266bfe59f4564\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\980c11d9ea87c2cab0052b6787c1ee9f\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DELL i7 Gen7\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\980c11d9ea87c2cab0052b6787c1ee9f\AndroidManifest.xml:26:9-47
